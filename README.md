@@ -1,6 +1,5 @@
 # lingua-u.github.io
-Lingua-U Site
 
-# Hello world
+## Lingua-U Site
 
-Hi there!
+Hello there!
